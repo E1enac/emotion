@@ -5,3 +5,4 @@ torch
 pyttsx3
 langdetect
 sounddevice
+PyAudio
